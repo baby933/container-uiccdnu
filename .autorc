@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "baby933",
+  "repo": "container-uiccdnu",
+  "name": "baby933",
+  "email": "freddycrugergeson1@gmail.com",
+}
